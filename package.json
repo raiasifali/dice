@@ -9,7 +9,7 @@
     "src",
     "public",
     ".gitignore",
-    "config-overrides.js",
+    "config.js",
     "LICENSE",
     "package.json",
     "README.md",
