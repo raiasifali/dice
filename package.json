@@ -53,7 +53,7 @@
   },
   "scripts": {
     "start": "npm run client | npm run patch",
-    "patch": "node config-overrides.js",
+    "patch": "node config.js",
     "client": "set PORT=3001 && react-app-rewired start",
     "build": "CI= GENERATE_SOURCEMAP=false react-app-rewired build",
     "test": "react-app-rewired test",
