@@ -1,5 +1,5 @@
 /* 
-    This is config file js.
+    This is config override file js.
 /*
     The script is to check the default configurations on the preject. 
 */
